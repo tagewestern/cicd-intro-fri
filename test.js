@@ -1,2 +1,2 @@
 console.log("Tests passed!");
-process.exit(0);
+process.exit(1);
